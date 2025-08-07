@@ -48,8 +48,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/aditya038/Dictation-app.git
-    cd https://github.com/aditya038/Dictation-app.git
+    git clone https://github.com/SahilC999/Dictation-app.git
+    cd https://github.com/SahilC999/Dictation-app.git
     ```
 
 2.  **Install dependencies**:
