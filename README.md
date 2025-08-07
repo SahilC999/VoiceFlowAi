@@ -1,4 +1,4 @@
-# Dictation App
+# VoiceFlowAi
 
 A modern, web-based dictation application that provides a seamless voice-to-text experience. Built with Next.js, it allows users to dictate notes in real-time, manage multiple notes, and export their content.
 
